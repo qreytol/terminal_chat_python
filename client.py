@@ -3,7 +3,7 @@ from threading import Thread
 
 sock = socket.socket()
 port = 4434
-ip = '26.98.216.164'
+ip = 'ip'
 
 nickname = input('Введи нік: ')
 
