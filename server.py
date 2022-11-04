@@ -2,7 +2,7 @@ import socket,sys
 from threading import Thread
 
 serv = socket.socket()
-ip = '26.98.216.164'
+ip = 'ip'
 port = 4434
 my_ip = socket.gethostbyname(socket.getfqdn())
 print(my_ip)
